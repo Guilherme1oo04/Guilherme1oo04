@@ -2,11 +2,11 @@
 
 ###
 
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Guilherme1oo04&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Guilherme1oo04&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>  
 
 ###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme1oo04&layout=compact)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Guilherme1oo04&layout=compact)
 
 <h2>Techs and tools</h2>
 
