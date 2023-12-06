@@ -1,16 +1,7 @@
 <h2 align="left">Oi👋! Meu nome é Guilherme Chaves e atuo como full-stack developer</h2> 
-<a href="https://www.linkedin.com/in/guilherme-chaves-b25866274/" title="LinkedIn">
-<img src="https://img.shields.io/badge/-Linkedin-0e76a8?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-chaves-b25866274/" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/guilherme-chaves-b25866274/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ###
-
-<div align="left"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Guilherme1oo04&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>  
-
-###
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Guilherme1oo04&layout=compact&theme=dark&include_all_commits=true&count_private=true) <br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Guilherme1oo04&theme=dark&hide_border=false)<br/>
-
 
 <h2>Techs and tools</h2>
 
@@ -47,3 +38,11 @@
 </div>
 
 ###
+
+<div align="left"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Guilherme1oo04&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>  
+
+###
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Guilherme1oo04&layout=compact&theme=dark&include_all_commits=true&count_private=true) <br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Guilherme1oo04&theme=dark&hide_border=false)<br/>
+
