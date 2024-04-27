@@ -56,25 +56,25 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker"  /><a/>
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git"  /><a/>
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  />
+  <a href="https://wikipedia.org/wiki/Linux/" target="_blank"><img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="Linux"  /><a/>
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/grafana/F46800" height="40" alt="grafana logo"  />
+  <a href="https://grafana.com/" target="_blank"><img src="https://cdn.simpleicons.org/grafana/F46800" height="40" alt="Grafana"  /><a/>
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo"  />
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="VS Code"  /><a/>
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="40" alt="androidstudio logo"  />
+  <a href="https://developer.android.com/studio/" target="_blank"><img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="40" alt="Android Studio"  /><a/>
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
+  <a href="https://www.postman.com/" target="_blank"><img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="Postman"  /><a/>
 </div>
 
 ###
 
 <div align="left">
-  <table border="0">
+  <table>
     <tr>
       <td>
         <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Guilherme1oo04&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="top"/>
