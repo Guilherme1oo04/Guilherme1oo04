@@ -74,11 +74,10 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Guilherme1oo04&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="top" />
-  <img width="12"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Guilherme1oo04&layout=compact&theme=dark&include_all_commits=true&count_private=true" align="center"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Guilherme1oo04&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="top" width="470"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Guilherme1oo04&layout=compact&theme=dark&include_all_commits=true&count_private=true" align="center" width="380"/>
 </div>
 
 ###
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme1oo04&theme=dark&hide_border=false" align="center"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme1oo04&theme=dark&hide_border=false" align="center" width="470"/>
