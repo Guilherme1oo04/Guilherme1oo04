@@ -64,10 +64,6 @@
   <img width="12" />
   <a href="https://grafana.com/" target="_blank"><img src="https://cdn.simpleicons.org/grafana/F46800" height="40" alt="Grafana"  /><a/>
   <img width="12" />
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="VS Code"  /><a/>
-  <img width="12" />
-  <a href="https://developer.android.com/studio/" target="_blank"><img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="40" alt="Android Studio"  /><a/>
-  <img width="12" />
   <a href="https://www.postman.com/" target="_blank"><img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="Postman"  /><a/>
 </div>
 
