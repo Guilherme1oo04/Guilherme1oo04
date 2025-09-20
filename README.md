@@ -12,10 +12,6 @@
 ###
 
 <div align="left">
-  <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML"  /><a/>
-  <img width="12" />
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="CSS"  /><a/>
-  <img width="12" />
   <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript"  /><a/>
   <img width="12" />
   <a href="https://www.php.net/" target="_blank"><img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="Php"  /><a/>
