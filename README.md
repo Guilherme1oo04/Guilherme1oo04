@@ -65,19 +65,4 @@
 
 ###
 
-<div align="left">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Guilherme1oo04&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="top"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Guilherme1oo04&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" align="top"/>
-      </td>
-    </tr>
-  <table/>
-</div>
-
-###
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme1oo04&theme=tokyonight&hide_border=true" align="left"/>
