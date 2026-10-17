@@ -1,5 +1,5 @@
 <h2 align="left">Oi👋! Meu nome é Guilherme Chaves e atuo como Software Developer</h2> 
-<a href="https://www.linkedin.com/in/guilherme-chaves-b25866274/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/guilherme-chaves-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <br></br>
 
 ```php
